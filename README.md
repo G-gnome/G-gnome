@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Kian. I'm a PhD student in the [Jason Stajich Lab](https://lab.stajich.org/) at University of California Riverside. I'm also a TA for MCBL121. If you are an MCBL121 student, please [click here](https://github.com/G-gnome/Lectures) to find my lectures. You can find my personal website [here](https://g-gnome.github.io/). Cheers! 🌱
+I'm a PhD student in the [Jason Stajich Lab](https://lab.stajich.org/) at University of California Riverside. You can find my personal website [here](https://g-gnome.github.io/). Cheers! 🌱
 
 <!--
 **G-gnome/G-gnome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
