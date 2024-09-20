@@ -1,6 +1,6 @@
 ### About me
 
-I'm a PhD student in the [Jason Stajich Lab](https://lab.stajich.org/) at University of California Riverside. You can find my personal website [here](https://g-gnome.github.io/). Cheers! 🌱
+I'm a PhD student in the [Jason Stajich Lab](https://lab.stajich.org/) at University of California Riverside. I study pink desert fungus (Rhodotorula) and moss that can survive on Mars (Syntrichia caninervis) using bioinformatic approaches. You can find my personal website [here](https://g-gnome.github.io/). Cheers! 🌱
 
 <a href="https://github.com/G-gnome/github-readme-stats">
   <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=G-gnome&show_icons=true&rank_icon=github&theme=shadow_green)" />
